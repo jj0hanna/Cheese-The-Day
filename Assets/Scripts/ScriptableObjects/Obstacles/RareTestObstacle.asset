@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4085edef066a7a340af8e892da05c5f5, type: 3}
+  m_Name: RareTestObstacle
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1507416100353541929, guid: db2fac1300067b747b44f95601b0b0ca, type: 3}
+  weight: 5
+  major: 0
